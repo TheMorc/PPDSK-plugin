@@ -1,0 +1,25 @@
+name: PrekladPluginovDoSK
+main: me.morccrafak.PPDSK.main
+version: 1.5
+
+commands:
+    den:
+        description: Preklad prikazu /day
+    noc:
+        description: Preklad prikazu /night
+    uzdravit:
+        description: Prerobeny prikaz /heal z pluginu Essentials
+    peniaze:
+        description: Preklad prikazu /money
+    skocit:
+        description: Preklad prikazu /jump
+    nastdom:
+        description: Preklad prikazu /sethome
+    domov:
+        description: Preklad prikazu /home
+    vymdom:
+        description: Preklad prikazu /delhome
+    najest:
+        description: Prerobeny prikaz /feed z pluginu Essentials
+    dajmiop:
+        description: Error command has non specified errors.
